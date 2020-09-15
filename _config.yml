@@ -7,7 +7,7 @@ google_analytics_id: null
 homepage:
   show_call_box: true
 logo:
-  mobile: "mages/Favicon500x500.png"
+  mobile: "images/Favicon500x500.png"
   desktop: "images/logo/cloud.jpg"
   desktop_height: "40px"
 footer:
