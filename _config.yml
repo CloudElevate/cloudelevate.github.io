@@ -9,7 +9,7 @@ homepage:
 logo:
   mobile: "images/logo/cloud.jpg"
   desktop: "images/logo/cloud.jpg"
-  desktop_height: "36px"
+  desktop_height: "40px"
 footer:
   copyright_text: '© CloudElevate 2020'
 
