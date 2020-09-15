@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# CloudElevate is a revolutionary database consulting service.
+<h1 id="cloudelevate-is-a-revolutionary-database-consulting-service">Cloud<span style="color:red">Elevate</span> is a revolutionary database consulting service.</h1>
 
 You will never need to worry about databases again.
