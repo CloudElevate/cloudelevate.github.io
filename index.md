@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Jekyll Serif Theme
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+title: CloudElevate
+description: CloudElevate solves all your database related issues with customer obsession in mind.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# CloudElevate
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+CloudElevate is a revolutionary database consulting service.
